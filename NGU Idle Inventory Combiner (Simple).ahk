@@ -29,7 +29,7 @@ Repeat = 1
 RepeatAmount = 10
 
 ; delay between runs of the loop, measured in 1 second = 100 default is 5 minutes
-RepeatDelay = 10
+RepeatDelay = 300000
 
 ; Sorting Delay
 ; delay of movement between combining and boosting each item, recommended at least 10 or game freaks out.
