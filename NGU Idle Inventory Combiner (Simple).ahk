@@ -96,7 +96,7 @@ Inventory2Merge = 1
 
 
 ; SETTINGS - BOOSTING
-All of these are formatted so that 1 = perform Boosting and 0 = skip Boosting
+; All of these are formatted so that 1 = perform Boosting and 0 = skip Boosting
 
 ; Head Boosting
 headBoost = 1
